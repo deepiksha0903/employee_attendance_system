@@ -1,0 +1,2 @@
+com\attendance\config\CorsConfig.class
+com\attendance\security\SecurityConfig.class
